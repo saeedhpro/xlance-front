@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "IRANSans";
+  src: url("fonts/IRANSans.ttf");
+}
+@font-face {
+  font-family: "IRANSansBold";
+  src: url("fonts/IRANSans_Bold.ttf");
+}
+@font-face {
+  font-family: "IRANSansLight";
+  src: url("fonts/IRANSans_Light.ttf");
+}
+@font-face {
+  font-family: "IRANSansMedium";
+  src: url("fonts/IRANSans_Medium.ttf");
+}
+@font-face {
+  font-family: "IRANSansUltraLight";
+  src: url("fonts/IRANSans_UltraLight.ttf");
+}
+.ir {
+  font-family: "IRANSans";
+}
+.ir-bold {
+  font-family:"IRANSansBold";
+}
+.ir-light {
+  font-family: "IRANSansLight";
+}
+.ir-medium {
+  font-family: "IRANSansMedium";
+}
+.ir-ultraLight {
+  font-family: "IRANSansUltraLight";
+}
+//finish IranSanse
+@font-face {
+  font-family: "KalamehWeb_Black";
+  src: url("fonts/KalamehWeb_Black.eot");
+  src: url("fonts/KalamehWeb_Black.ttf");
+  src: url("fonts/KalamehWeb_Black.woff");
+  src: url("fonts/KalamehWeb_Black.woff2");
+}
+.ka-font{
+  font-family: "KalamehWeb_Black";
+}
+

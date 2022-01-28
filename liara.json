@@ -1,0 +1,11 @@
+{
+  "platform": "node",
+  "app": "xlancefront",
+  "port": 5000,
+  "disks": [
+    {
+      "name": "root",
+      "mountTo": "dist"
+    }
+  ]
+}
